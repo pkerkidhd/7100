@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUI\SpeedOptionsHUD.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ButtonOptions.cs" Line="45" Column="5" />
+      <File FileName="Assets\Scripts\Global\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\System\ClockSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\System\UpdateSytem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\System\CalendarSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global\System\CurrencySystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI\SpeedOptionsHUD.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
